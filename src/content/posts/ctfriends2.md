@@ -6,7 +6,7 @@ image: ''
 tags: [CTF,Writeup,CyberSec]
 category: 'CyberSec'
 draft: false 
-lang: 'th,en'
+lang: 'en'
 ---
 
 # Please view on my medium blog

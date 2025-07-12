@@ -4,9 +4,9 @@ published: 2025-07-12
 description: ''
 image: ''
 tags: []
-category: ''
+category: 'CyberSec'
 draft: false 
-lang: ''
+lang: 'en'
 ---
 
 # Please view on my medium blog
