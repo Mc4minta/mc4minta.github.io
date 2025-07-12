@@ -3,7 +3,7 @@ title: "HTB — Tier 2 Starting Point: Unified"
 published: 2025-07-11
 description: ''
 image: ''
-tags: [HackTheBox]
+tags: [HackTheBox,Writeup,CyberSec]
 category: 'CyberSec'
 draft: false 
 lang: 'en'
